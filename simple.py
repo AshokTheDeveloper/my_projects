@@ -1,5 +1,5 @@
 #write a python program to calculate a simple interest
-
+#This program was written by Ashok Chodipalli Fullstack Developer
 #The simple formula for simple interest is I = P * T * R / 100
 # I = Interest
 # P = Principal amount
